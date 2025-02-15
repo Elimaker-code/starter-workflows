@@ -1,0 +1,91 @@
+
+Name	Last commit message	Last commit date
+..
+properties
+Add Octopus Deploy release and deploy workflow (#2651)
+2 months ago
+alibabacloud.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+aws.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-container-webapp.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-functions-app-container.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-functions-app-dotnet.yml
+Setup-Dotnet: Update all workflows to Setup-Dotnet V4
+10 months ago
+azure-functions-app-java-gradle.yml
+Setup-Java: Update all workflows to use Setup-Java V4
+10 months ago
+azure-functions-app-java.yml
+Setup-Java: Update all workflows to use Setup-Java V4
+10 months ago
+azure-functions-app-nodejs.yml
+Setup-Node: Update all workflows to use Setup-Node V4
+10 months ago
+azure-functions-app-powershell.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-functions-app-python.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-kubernetes-service-helm.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-kubernetes-service-kompose.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-kubernetes-service-kustomize.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-kubernetes-service.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-staticwebapp.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+azure-webapps-dotnet-core.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+azure-webapps-java-jar-gradle.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+azure-webapps-java-jar.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+azure-webapps-node.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+azure-webapps-php.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+azure-webapps-python.yml
+Update starter workflows to use the latest artifact actions (#2726)
+last month
+google-cloudrun-docker.yml
+google: update workflow versions and instructions (#2478)
+6 months ago
+google-cloudrun-source.yml
+google: update workflow versions and instructions (#2478)
+6 months ago
+google.yml
+google: update workflow versions and instructions (#2478)
+6 months ago
+ibm.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+octopusdeploy.yml
+Fix sentence style
+last month
+openshift.yml
+Ubuntu-Latest: Update all workflows to use ubuntu-latest
+6 months ago
+tencent.yml
+Checkout: Update all workflows to use Checkout V4
+11 months ago
+terraform.yml
